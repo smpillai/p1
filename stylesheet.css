@@ -1,9 +1,18 @@
+
+
 h1{
-    color:#55bada;
+    color:#000000;
     text-align: center;
     text-shadow: 0 0 2px;
     font-family:futura;
-        
+    font-size: 50px    
+}
+#f{
+    color:#A52A2A;
+    text-align: center;
+    text-shadow: 0 0 2px;
+    font-family:futura;
+    font-size: 50px 
 }
 span{
     
@@ -16,7 +25,7 @@ span{
 #p2{
     font-family: Avenir;
     font-size: 35px;
-    text-decoration:underline;
+    ;
 }
 p{
     font-family:Avenir;
